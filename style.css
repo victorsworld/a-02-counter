@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+   justify-content: center;
+}
+.counter{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.box {
+    display: inline-block;
+    margin: 5px;
+    width: 40px;
+    height: 40px;
+    background-color: #007BFF;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+}
+
+.stars-container {
+    margin-top: 20px;
+}
